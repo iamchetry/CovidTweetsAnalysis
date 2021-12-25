@@ -1,4 +1,4 @@
-# IR-Final-Project
+# CovidTweetsAnalysis
 
 This project includes : 
 1. Designing a Search-Engine for 150K multi-lingual tweets.
